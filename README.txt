@@ -1,3 +1,5 @@
+Create by Schwartz Lindsey, Ke Liang, Lin Li and Yifei Xiang
+
 To run the augmented reality viewer:
    -Simply open run the augmentedRealityViewer.m script in Matlab.
 
